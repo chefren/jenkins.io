@@ -94,7 +94,7 @@ to achieve specific results.
 == Editing content
 
 The majority of what is considered "legacy" content is almost entirely under
-`content/blog`. These files represent structured around the date the original
+`content/blog`. The files' paths are structured to represent the date the original
 stories were written in Drupal.
 
 Most content on this site is written up in the AsciiDoc markup language.
